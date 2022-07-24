@@ -1,0 +1,81 @@
+rates,cuisine,names
+2.6,others,1
+2.7,others,1
+2.8,others,1
+2.9,"Bakery, Desserts",1
+2.9,others,1
+3.0,others,2
+3.1,South Indian,1
+3.1,others,6
+3.2,"Bakery, Desserts",2
+3.2,others,6
+3.3,"Bakery, Desserts",1
+3.3,South Indian,3
+3.3,others,1
+3.4,South Indian,2
+3.4,others,12
+3.5,"Bakery, Desserts",2
+3.5,North Indian,1
+3.5,South Indian,5
+3.5,others,23
+3.6,"Bakery, Desserts",2
+3.6,North Indian,1
+3.6,others,25
+3.7,"Bakery, Desserts",1
+3.7,"Mithai, Street Food",2
+3.7,North Indian,1
+3.7,South Indian,2
+3.7,others,38
+3.8,"Bakery, Desserts",5
+3.8,Mithai,1
+3.8,"Mithai, Street Food",1
+3.8,"North Indian, Chinese",3
+3.8,South Indian,2
+3.8,others,30
+3.9,"Bakery, Desserts",3
+3.9,Mithai,2
+3.9,"Mithai, Street Food",1
+3.9,North Indian,2
+3.9,"North Indian, Chinese",1
+3.9,South Indian,5
+3.9,others,48
+3.946101694915254,"Bakery, Desserts",1
+3.946101694915254,Mithai,1
+3.946101694915254,"Mithai, Street Food",1
+3.946101694915254,North Indian,3
+3.946101694915254,"North Indian, Chinese",2
+3.946101694915254,South Indian,13
+3.946101694915254,others,46
+4.0,"Bakery, Desserts",2
+4.0,"Mithai, Street Food",1
+4.0,North Indian,1
+4.0,"North Indian, Chinese",2
+4.0,South Indian,13
+4.0,others,84
+4.1,"Bakery, Desserts",2
+4.1,Mithai,1
+4.1,"Mithai, Street Food",4
+4.1,"North Indian, Chinese",3
+4.1,South Indian,9
+4.1,others,58
+4.2,"Bakery, Desserts",1
+4.2,Mithai,1
+4.2,"Mithai, Street Food",3
+4.2,North Indian,1
+4.2,"North Indian, Chinese",2
+4.2,South Indian,5
+4.2,others,49
+4.3,Mithai,1
+4.3,"Mithai, Street Food",7
+4.3,North Indian,2
+4.3,South Indian,5
+4.3,others,51
+4.4,Mithai,3
+4.4,"Mithai, Street Food",1
+4.4,South Indian,2
+4.4,others,15
+4.5,Mithai,3
+4.5,others,5
+4.6,"Mithai, Street Food",1
+4.6,others,3
+4.7,Mithai,1
