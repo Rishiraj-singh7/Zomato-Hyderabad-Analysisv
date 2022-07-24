@@ -1,0 +1,40 @@
+cuisine,cost1person,names
+"Bakery, Desserts",50,1
+"Bakery, Desserts",100,10
+"Bakery, Desserts",150,7
+"Bakery, Desserts",250,1
+"Bakery, Desserts",350,4
+Mithai,50,1
+Mithai,100,7
+Mithai,150,6
+"Mithai, Street Food",50,1
+"Mithai, Street Food",100,6
+"Mithai, Street Food",150,5
+"Mithai, Street Food",200,2
+"Mithai, Street Food",300,3
+"Mithai, Street Food",350,5
+North Indian,100,6
+North Indian,250,1
+North Indian,350,4
+North Indian,400,1
+"North Indian, Chinese",100,2
+"North Indian, Chinese",150,4
+"North Indian, Chinese",200,1
+"North Indian, Chinese",250,1
+"North Indian, Chinese",300,3
+"North Indian, Chinese",350,2
+South Indian,50,5
+South Indian,100,23
+South Indian,150,17
+South Indian,200,5
+South Indian,250,8
+South Indian,300,2
+South Indian,350,7
+others,50,52
+others,100,183
+others,150,117
+others,200,16
+others,250,37
+others,300,40
+others,350,50
+others,400,11
